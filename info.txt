@@ -1,0 +1,9 @@
+Użyłam socketów TCP, częściowo korzystałam z tego filmiku:
+https://www.youtube.com/watch?v=s6HOPw_5XuY&t=611s
+Korzystałam też z materiałów zamieszczonych na moodlu.
+Z niczego więcej nie korzystałam.
+
+What I had been using:
+https://www.youtube.com/watch?v=s6HOPw_5XuY&t=611s
+
+and course materials provided on moodle. And that's all
